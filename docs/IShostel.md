@@ -10,7 +10,7 @@
 
 Система, в цілому, ділиться на два блоки: студент та його дані та дані про гуртожиток (кімнати, ліжко-місця).
 
-![img](diagram.png)
+![img](https://github.com/vladyslavar/trash/blob/main/docs/img/diagram.png)
 
 #### Основні функції програми
 
